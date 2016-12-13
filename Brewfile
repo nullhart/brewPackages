@@ -1,10 +1,10 @@
 brew "dark-mode"
-brew findutils --default-names
-brew gnu-sed --default-names
-brew gnu-tar --default-names
-brew gnu-which --default-names
-brew gnutls --default-names
-brew grep --default-names
+brew findutils
+brew gnu-sed
+brew gnu-tar
+brew gnu-which
+brew gnutls
+brew grep 
 brew coreutils
 brew binutils
 brew diffutils
