@@ -1,5 +1,4 @@
 brew "dark-mode"
-brew findutils
 brew gnu-sed
 brew gnu-tar
 brew gnu-which
