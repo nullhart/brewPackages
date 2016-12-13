@@ -1,3 +1,4 @@
+tap "homebrew/dupes"
 brew "dark-mode"
 brew "findutils "
 brew "gnu-sed"
