@@ -1,1 +1,1 @@
-* Install Command: "it clone https://github.com/nullhart/brewPackages && sleep 3 && cd brewPackages && brew bundle && cd .. && sudo rm -r brewPackages"
+* Install Command: "git clone https://github.com/nullhart/brewPackages && sleep 3 && cd brewPackages && brew bundle && cd .. && sudo rm -r brewPackages"
